@@ -1,0 +1,5 @@
+name: arctic-spoofer
+version: 1.0
+main: dev.arctic.spoofer.Spoofer
+authors: [Vengeancey]
+description: Spoofer module for the Arctic Network.

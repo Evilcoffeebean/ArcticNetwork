@@ -1,0 +1,7 @@
+name: arctic-lobby
+version: 1.0
+main: dev.arctic.lobby.Lobby
+authors: [Vengeancey]
+description: Lobby module for the Arctic Network.
+commands:
+  setspawn:

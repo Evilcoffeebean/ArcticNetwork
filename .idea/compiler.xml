@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Arctic Core" />
+        <module name="Arctic Lobby" />
+        <module name="Arctic Spoofer" />
+        <module name="Core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Arctic Core" target="1.8" />
+      <module name="Arctic Lobby" target="1.8" />
+      <module name="Arctic Spoofer" target="1.8" />
+      <module name="arctic-core" target="1.8" />
+      <module name="arctic-lobby" target="1.8" />
+      <module name="Base" target="1.8" />
+      <module name="Core" target="1.8" />
+      <module name="lobby" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

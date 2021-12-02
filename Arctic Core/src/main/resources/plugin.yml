@@ -1,0 +1,29 @@
+name: ${project.name}
+version: ${project.version}
+main: ${plugin.mainClass}
+authors: [${plugin.author}]
+description: ${plugin.description}
+depend: [ProtocolLib]
+commands:
+  group:
+  news:
+  announce:
+  barinfo:
+  gm:
+    aliases: [gamemode]
+  tp:
+    aliases: [find, teleport]
+  flakes:
+    aliases: [flake]
+  rules:
+  npc:
+  deletenpc:
+  level:
+  vanish:
+    aliases: [v]
+  levelstatus:
+  report:
+  sc:
+    aliases: [staffchat]
+  punish:
+    aliases: [p, sentence]

@@ -1,0 +1,29 @@
+name: arctic-core
+version: 1.0
+main: dev.arctic.core.Core
+authors: [Vengeancey]
+description: Core module for the Arctic Network.
+depend: [ProtocolLib]
+commands:
+  group:
+  news:
+  announce:
+  barinfo:
+  gm:
+    aliases: [gamemode]
+  tp:
+    aliases: [find, teleport]
+  flakes:
+    aliases: [flake]
+  rules:
+  npc:
+  deletenpc:
+  level:
+  vanish:
+    aliases: [v]
+  levelstatus:
+  report:
+  sc:
+    aliases: [staffchat]
+  punish:
+    aliases: [p, sentence]

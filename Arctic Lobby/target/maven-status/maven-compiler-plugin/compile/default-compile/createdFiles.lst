@@ -1,0 +1,12 @@
+dev\arctic\lobby\command\SpawnCommand.class
+dev\arctic\lobby\item\LobbyItems.class
+dev\arctic\lobby\gui\GamesGUI.class
+dev\arctic\lobby\gui\PrefsGUI.class
+dev\arctic\lobby\spawn\Spawn.class
+dev\arctic\lobby\event\LobbyEvents$1.class
+dev\arctic\lobby\gui\CosmeticsGUI.class
+dev\arctic\lobby\event\LobbyEvents.class
+dev\arctic\lobby\spawn\Spawn$SpawnManager.class
+dev\arctic\lobby\Lobby.class
+dev\arctic\lobby\scoreboard\BoardEvent.class
+dev\arctic\lobby\event\LobbyEvents$2.class

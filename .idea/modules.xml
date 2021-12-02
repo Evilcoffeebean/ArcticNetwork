@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arctic Core/Arctic Core.iml" filepath="$PROJECT_DIR$/Arctic Core/Arctic Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arctic Lobby/Arctic Lobby.iml" filepath="$PROJECT_DIR$/Arctic Lobby/Arctic Lobby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arctic Spoofer/Arctic Spoofer.iml" filepath="$PROJECT_DIR$/Arctic Spoofer/Arctic Spoofer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Base.iml" filepath="$PROJECT_DIR$/Base.iml" />
+    </modules>
+  </component>
+</project>
